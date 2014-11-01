@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IN1A Pin=Q1-PC0
+Removed Pin From Net: NetName=IN2A Pin=Q1-PC1
+Removed Pin From Net: NetName=IN1B Pin=Q1-PC2
+Removed Pin From Net: NetName=IN2B Pin=Q1-PC3
+Added Pin To Net: NetName=IN1B Pin=Q1-PB6
+Added Pin To Net: NetName=IN2B Pin=Q1-PB7
+Added Pin To Net: NetName=IN2A Pin=Q1-PB8
+Added Pin To Net: NetName=IN1A Pin=Q1-PB9

@@ -1,0 +1,13 @@
+Added Component: Designator=Q1(STM32F303RCT6)
+Added Pin To Net: NetName=GND Pin=Q1-VSS_2
+Added Pin To Net: NetName=GND Pin=Q1-VSS_3
+Added Pin To Net: NetName=GND Pin=Q1-VSS_1
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=Q1-VBAT
+Added Pin To Net: NetName=VCC Pin=Q1-VDD_4
+Added Pin To Net: NetName=VCC Pin=Q1-VDD_2
+Added Pin To Net: NetName=VCC Pin=Q1-VDD_3
+Added Pin To Net: NetName=VCC Pin=Q1-VDD_1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
