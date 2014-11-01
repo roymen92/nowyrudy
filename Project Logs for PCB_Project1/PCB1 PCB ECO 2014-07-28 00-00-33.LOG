@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SHARP7 Pin=Q1-PA10
+Removed Pin From Net: NetName=SHARP8 Pin=Q1-PA11
+Added Pin To Net: NetName=SHARP8 Pin=Q1-PA1
+Added Pin To Net: NetName=SHARP7 Pin=Q1-PA2

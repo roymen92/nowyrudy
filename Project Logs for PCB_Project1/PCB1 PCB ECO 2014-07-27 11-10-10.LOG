@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=5V Pin=1000u-1
+Added Pin To Net: NetName=5V Pin=C31-2
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=LED10-2
+Added Pin To Net: NetName=5V Pin=Q7-4
+Added Pin To Net: NetName=5V Pin=Q8-IN
+Added Member To Class: ClassName=Sheet1 Member=Component R7 1

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SHARP6 Pin=Q1-PA8
+Added Pin To Net: NetName=SHARP6 Pin=Q1-PF1/OSC_OUT

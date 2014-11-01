@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SHARP2 Pin=Q1-PA4
+Added Pin To Net: NetName=SHARP2 Pin=Q1-PC15/OSC32_OUT
