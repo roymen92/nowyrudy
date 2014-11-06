@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=VCC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=5V Pin=J3-1
+Removed Pin From Net: NetName=5V Pin=J4-1
+Removed Pin From Net: NetName=VCC Pin=JP1-2
+Removed Pin From Net: NetName=RESET Pin=JP1-5
+Removed Pin From Net: NetName=GND Pin=JP1-6
+Removed Pin From Net: NetName=BAT2 Pin=JP10-4
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=SHARP8 Pin=Q1-PA1
+Removed Pin From Net: NetName=SHARP7 Pin=Q1-PA2
+Removed Pin From Net: NetName=PWMB Pin=Q1-PA9
+Removed Pin From Net: NetName=KEY Pin=Q1-PA12
+Removed Pin From Net: NetName=SHARP5 Pin=Q1-PA15
+Removed Pin From Net: NetName=SW1 Pin=Q1-PB3
+Removed Pin From Net: NetName=SW2 Pin=Q1-PB4
+Removed Pin From Net: NetName=IN1B Pin=Q1-PB6
+Removed Pin From Net: NetName=IN2B Pin=Q1-PB7
+Removed Pin From Net: NetName=IN2A Pin=Q1-PB8
+Removed Pin From Net: NetName=IN1A Pin=Q1-PB9
+Removed Pin From Net: NetName=LED1 Pin=Q1-PB10
+Removed Pin From Net: NetName=LED2 Pin=Q1-PB11
+Removed Pin From Net: NetName=LED3 Pin=Q1-PB12
+Removed Pin From Net: NetName=LED4 Pin=Q1-PB13
+Removed Pin From Net: NetName=LED5 Pin=Q1-PB14
+Removed Pin From Net: NetName=LED6 Pin=Q1-PB15
+Removed Pin From Net: NetName=LED7 Pin=Q1-PC6
+Removed Pin From Net: NetName=LED8 Pin=Q1-PC7
+Removed Pin From Net: NetName=KTIR2 Pin=Q1-PC8
+Removed Pin From Net: NetName=KTIR1 Pin=Q1-PC9
+Removed Pin From Net: NetName=SHARP3 Pin=Q1-PC10
+Removed Pin From Net: NetName=SHARP1 Pin=Q1-PC11
+Removed Pin From Net: NetName=START Pin=Q1-PC12
+Removed Pin From Net: NetName=PWMA Pin=Q1-PC13
+Removed Pin From Net: NetName=SHARP2 Pin=Q1-PC15/OSC32_OUT
+Removed Pin From Net: NetName=SHARP4 Pin=Q1-PF0/OSC_IN
+Removed Pin From Net: NetName=SHARP6 Pin=Q1-PF1/OSC_OUT
+Removed Pin From Net: NetName=VCC Pin=Q1-VDDA
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=HEADER 3X2 New DesignItemId=CON_1MM_6PIN
+Change Component Comment : Designator=R2 Old Comment=22 New Comment=470
+Change Component Comment : Designator=R14 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R15 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R16 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R17 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R18 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R19 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R20 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R21 Old Comment=68 New Comment=680
+Change Component Comment : Designator=R13 Old Comment=150 New Comment=470
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q0
+Change Component Designator: OldDesignator=R1 NewDesignator=R50
+Change Component Designator: OldDesignator=R2 NewDesignator=R51
+Change Component Library : Designator=JP1 Old Library=Integrated_Library1.IntLib New Library=juziuLibrary.IntLib
+Added Component: Designator=C8(F720J108MMC)
+Added Component: Designator=C42(0805 CAP)
+Added Component: Designator=C43(0805 CAP)
+Added Component: Designator=C44(0805 CAP)
+Added Component: Designator=Cewka(0805 RES)
+Added Component: Designator=J5(6pin)
+Added Component: Designator=KWARC(KWARC_16M)
+Added Component: Designator=Q3(N_Mosfet)
+Added Component: Designator=R3(0805 RES)
+Added Component: Designator=R40(0805 RES)
+Added Component: Designator=R41(0805 RES)
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=VCC Pin=J4-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=BAT1 Pin=J5-3
+Added Pin To Net: NetName=BAT2 Pin=J5-4
+Added Pin To Net: NetName=BAT3 Pin=J5-5
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=BAT2 Pin=JP10-2
+Added Pin To Net: NetName=5V Pin=P1-1
+Added Pin To Net: NetName=LED1 Pin=Q0-PA0
+Added Pin To Net: NetName=LED2 Pin=Q0-PA1
+Added Pin To Net: NetName=LED3 Pin=Q0-PA2
+Added Pin To Net: NetName=LED4 Pin=Q0-PA3
+Added Pin To Net: NetName=LED5 Pin=Q0-PA4
+Added Pin To Net: NetName=LED6 Pin=Q0-PA5
+Added Pin To Net: NetName=LED7 Pin=Q0-PA6
+Added Pin To Net: NetName=LED8 Pin=Q0-PA7
+Added Pin To Net: NetName=SHARP5 Pin=Q0-PA8
+Added Pin To Net: NetName=SHARP6 Pin=Q0-PA9
+Added Pin To Net: NetName=SHARP7 Pin=Q0-PA10
+Added Pin To Net: NetName=SHARP8 Pin=Q0-PA11
+Added Pin To Net: NetName=START Pin=Q0-PA12
+Added Pin To Net: NetName=KEY Pin=Q0-PB2
+Added Pin To Net: NetName=PWMA Pin=Q0-PB6
+Added Pin To Net: NetName=PWMB Pin=Q0-PB7
+Added Pin To Net: NetName=IN1A Pin=Q0-PB8
+Added Pin To Net: NetName=IN2A Pin=Q0-PB9
+Added Pin To Net: NetName=IN1B Pin=Q0-PB10
+Added Pin To Net: NetName=IN2B Pin=Q0-PB11
+Added Pin To Net: NetName=SW1 Pin=Q0-PB12
+Added Pin To Net: NetName=SW2 Pin=Q0-PB13
+Added Pin To Net: NetName=KTIR1 Pin=Q0-PC0
+Added Pin To Net: NetName=KTIR2 Pin=Q0-PC1
+Added Pin To Net: NetName=SHARP1 Pin=Q0-PC6
+Added Pin To Net: NetName=SHARP2 Pin=Q0-PC7
+Added Pin To Net: NetName=SHARP3 Pin=Q0-PC8
+Added Pin To Net: NetName=SHARP4 Pin=Q0-PC9
+Added Pin To Net: NetName=NetJ5_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=BAT4 Pin=J5-6
+Added Pin To Net: NetName=BAT4 Pin=JP10-4
+Added Net: Name=BAT4
+Added Pin To Net: NetName=BAT_ADC Pin=Q0-PC2
+Added Net: Name=BAT_ADC
+Added Pin To Net: NetName=JTCK Pin=JP1-2
+Added Pin To Net: NetName=JTCK Pin=Q0-PA14
+Added Net: Name=JTCK
+Added Pin To Net: NetName=JTMS Pin=JP1-4
+Added Pin To Net: NetName=JTMS Pin=Q0-PA13
+Added Net: Name=JTMS
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=NetC5_1 Pin=Q0-VDDA
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC43_1 Pin=KWARC-1
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC43_2 Pin=Q0-PF1/OSC_OUT
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC44_1 Pin=KWARC-2
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC44_2 Pin=Q0-PF0/OSC_IN
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=Q3-2
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=T_SWO Pin=JP1-6
+Added Pin To Net: NetName=T_SWO Pin=Q0-PB3
+Added Net: Name=T_SWO
+Added Pin To Net: NetName=TRST Pin=JP1-5
+Added Pin To Net: NetName=TRST Pin=Q0-PB4
+Added Net: Name=TRST
+Added Member To Class: ClassName=Sheet1 Member=Component C8 1000u
+Added Member To Class: ClassName=Sheet1 Member=Component J5 6PIN_1MM
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 header 3x2
+Added Member To Class: ClassName=Sheet1 Member=Component KWARC 16MHz
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 MOSFET-N

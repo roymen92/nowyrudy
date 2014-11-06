@@ -1,0 +1,4 @@
+Added Component: Designator=R1(0805 RES)
+Added Component: Designator=R2(0805 RES)
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=KTIR
+Added Net: Name=VCC

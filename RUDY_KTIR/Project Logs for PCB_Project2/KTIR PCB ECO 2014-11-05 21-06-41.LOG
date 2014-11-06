@@ -1,0 +1,13 @@
+Added Component: Designator=Q1(KTIR0711S)
+Added Component: Designator=R1(0805 RES)
+Added Component: Designator=R2(0805 RES)
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=KTIR Pin=Q1-2
+Added Net: Name=KTIR
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Net: Name=VCC
+Added Class: Name=KTIR
+Added Room: Name=KTIR
