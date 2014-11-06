@@ -1,0 +1,8 @@
+Added Component: Designator=R1(0805 RES)
+Added Component: Designator=R2(0805 RES)
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=KTIR Pin=R2-2
+Added Member To Class: ClassName=KTIR Member=Component R1 100
+Added Member To Class: ClassName=KTIR Member=Component R2 22k

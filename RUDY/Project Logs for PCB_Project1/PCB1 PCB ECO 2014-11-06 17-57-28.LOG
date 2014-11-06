@@ -1,0 +1,18 @@
+Change Component Comment : Designator=C60 Old Comment=100n New Comment=18p
+Change Component Comment : Designator=C61 Old Comment=100n New Comment=18p
+Added Component: Designator=C62(0805 CAP)
+Added Component: Designator=CEWKA(0805)
+Added Component: Designator=R41(0805)
+Added Component: Designator=R42(0805)
+Added Pin To Net: NetName=RESET Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=NetC5_1 Pin=CEWKA-1
+Added Pin To Net: NetName=VCC Pin=CEWKA-2
+Added Pin To Net: NetName=BAT_ADC Pin=R41-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R41-2
+Added Pin To Net: NetName=RESET Pin=R42-1
+Added Pin To Net: NetName=VCC Pin=R42-2
+Added Member To Class: ClassName=Sheet1 Member=Component C62 100n
+Added Member To Class: ClassName=Sheet1 Member=Component CEWKA 10uH
+Added Member To Class: ClassName=Sheet1 Member=Component R41 4k7
+Added Member To Class: ClassName=Sheet1 Member=Component R42 10k
