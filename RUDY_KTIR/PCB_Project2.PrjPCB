@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=..\RUDY\juziuLibrary.IntLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\juziuLibrary.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=..\RUDY\Integrated_Library1.IntLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Integrated_Library1.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

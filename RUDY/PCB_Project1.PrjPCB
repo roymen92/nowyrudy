@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=Job1.OutJob
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=Integrated_Library1.IntLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Integrated_Library1.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,7 +96,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
-DocumentPath=Project Outputs for Integrated_Library1\juziuLibrary\F720J108MMC.PcbLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for Integrated_Library1\juziuLibrary\F720J108MMC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -112,7 +112,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=Project Outputs for Integrated_Library1\juziuLibrary\F720J108MMC.SchLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for Integrated_Library1\juziuLibrary\F720J108MMC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -128,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=juziuLibrary.IntLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\juziuLibrary.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=con_1mm_6pin.PcbLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\con_1mm_6pin.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,7 +160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=NMOSFET.PcbLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\NMOSFET.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -176,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=KWARC_16M.PcbLib
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\KWARC_16M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,47 +192,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GBL
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GBS
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GTL
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GTS
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=PCB1.PcbDoc.htm
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\PCB1.PcbDoc.htm
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.REP
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.RUL
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.TXT
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
