@@ -1,0 +1,19 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 00:32:35 On 2014-11-25
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [KTIR.PcbDoc]
+   Generated File[KTIR.GTL]
+   Generated File[KTIR.GTS]
+   Generated File[KTIR.GKO]
+   Generated File[KTIR.RUL]
+   Generated File[KTIR.EXTREP]
+   Generated File[KTIR.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 00:32:36 On 2014-11-25

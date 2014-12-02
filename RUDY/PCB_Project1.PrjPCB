@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=
+OutputPath=Project Outputs for PCB_Project1
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -191,47 +191,107 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document11]
+DocumentPath=Job2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
+DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBL
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBS
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTL
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTS
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\PCB1.PcbDoc.htm
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.REP
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.RUL
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\PCB1.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.TXT
 DItemRevisionGUID=
 
