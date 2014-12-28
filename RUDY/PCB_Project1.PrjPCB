@@ -2,7 +2,6 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for PCB_Project1
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -30,6 +29,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
+OutputPath=
 
 [Document1]
 DocumentPath=Sheet1.SchDoc
@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Job1.OutJob
+DocumentPath=C:\Users\juziu\Dropbox\temp\rudy2\project outputs for integrated_library1\juziulibrary\project outputs for juziulibrary\juziulibrary\Project Outputs for juziuLibrary\juziuLibrary.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -78,234 +78,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[Document4]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Integrated_Library1.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document5]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for Integrated_Library1\juziuLibrary\F720J108MMC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document6]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for Integrated_Library1\juziuLibrary\F720J108MMC.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document7]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\juziuLibrary.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document8]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\con_1mm_6pin.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document9]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\NMOSFET.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document10]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\KWARC_16M.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document11]
-DocumentPath=Job2.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\PCB1.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for PCB_Project1\Gerber\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\Gerber\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for PCB_Project1\NC Drill\PCB1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD\Examples\RUDY\Project Outputs for PCB_Project1\NC Drill\PCB1.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
 ConstraintFileCount=0
-
-[PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
-Name=Default Configuration
 Variant=[No Variations]
 GenerateBOM=0
+OutputJobsCount=0
+
+[Configuration2]
+Name=Default Configuration
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+CurrentRevision=
+Variant=[No Variations]
+GenerateBOM=0
+OutputJobsCount=0
 
 [Generic_EDE]
 OutputDir=
@@ -313,7 +105,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -444,7 +236,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -465,7 +257,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -579,7 +371,7 @@ PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -601,7 +393,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -657,7 +449,7 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -694,7 +486,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -874,7 +666,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -903,13 +695,18 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet 2200 Series PCL 5
+TargetPrinter=HP Photosmart Ink Adv K510
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
+OutputType2=ExportIDF
+OutputName2=Export IDF
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
 
 [Modification Levels]
 Type1=1
@@ -986,6 +783,10 @@ Type71=1
 Type72=1
 Type73=1
 Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
 
 [Difference Levels]
 Type1=1
@@ -1028,6 +829,9 @@ Type37=1
 Type38=1
 Type39=1
 Type40=1
+Type41=1
+Type42=1
+Type43=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1152,12 +956,14 @@ L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
+SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
 
 [PrjClassGen]
 CompClassManualEnabled=0
